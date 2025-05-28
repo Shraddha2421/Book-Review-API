@@ -54,5 +54,19 @@ project/
    ```bash
    git clone https://github.com/Shraddha2421/book-review-api.git
    cd book-review-api
-  ```
+   
+  '''
+----
+2. **Install dependencies**
+   ```bash
+   npm install
+'''
+----
+3. **Run the server**
+   ```bash
+   npm start dev
+'''
+---
+
+
 
